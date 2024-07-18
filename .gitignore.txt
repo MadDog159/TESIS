@@ -1,0 +1,7 @@
+# Ignorar carpetas no deseadas
+Intermediate/
+Platforms/
+Saved/
+
+# Ignorar todos los archivos ejecutables
+*.exe
